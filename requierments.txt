@@ -1,0 +1,10 @@
+keras
+tensorflow
+sklearn
+category_encoders
+pandas
+numpy
+deap
+scipy
+matplotlib
+flask
